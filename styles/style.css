@@ -1,0 +1,49 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: "Ubuntu", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    color: #7676d8;
+    text-shadow: 6px 5px 2px black;
+    padding: 5px 5px;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html {
+    background-color: #7676d8;
+  }
+
+  body {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(139, 20, 11);
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
+  
+  
+  
+
